@@ -1,2 +1,2 @@
 # Ifood Copilot 
-### Projeto hackathon Ifood Behring Academy Campl 2026
+### Projeto hackathon Ifood Behring Academy Camp 2026
